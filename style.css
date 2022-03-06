@@ -1,0 +1,16 @@
+.Text{
+	border-style: outset;
+	font-size: 1.2rem;
+}
+
+.headings{
+	font-size: 1.7rem;
+	color: pink;
+	font-family: "Times New Roman", Times, serif;	
+}
+
+#main{
+
+	font-size: 2rem;
+	color: red;
+}
